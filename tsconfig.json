@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "baseUrl": ".",
+    "typeRoots": ["./node_modules/@types", "./src/types"],
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    "lib": ["dom", "esnext"],
+    "outDir": "./build"
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}

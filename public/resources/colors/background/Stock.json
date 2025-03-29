@@ -1,0 +1,430 @@
+{
+	"name": "Stock",
+    "type": "textile",
+    "isSystem": true,
+    "colors": [
+        {
+            "colorSpace": "RGB",
+			"name": "Black",
+            "value": {
+                "red": 0,
+                "green": 0,
+                "blue": 0
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Pale Pink",
+            "value": {
+                "red": 242,
+                "green": 218,
+                "blue": 232
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Pink",
+            "value": {
+                "red": 251,
+                "green": 127,
+                "blue": 181
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Wow Pink",
+            "value": {
+                "red": 234,
+                "green": 29,
+                "blue": 118
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Deep Red",
+            "value": {
+                "red": 172,
+                "green": 0,
+                "blue": 51
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Cardinal",
+            "value": {
+                "red": 140,
+                "green": 29,
+                "blue": 64
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Maroon",
+            "value": {
+                "red": 113,
+                "green": 45,
+                "blue": 61
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Texas Orange",
+            "value": {
+                "red": 167,
+                "green": 90,
+                "blue": 41
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Orange",
+            "value": {
+                "red": 255,
+                "green": 70,
+                "blue": 18
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Safety Orange",
+            "value": {
+                "red": 255,
+                "green": 171,
+                "blue": 76
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Athletic Orange",
+            "value": {
+                "red": 255,
+                "green": 108,
+                "blue": 12
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Yellow",
+            "value": {
+                "red": 252,
+                "green": 228,
+                "blue": 62
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Daffodil Yellow",
+            "value": {
+                "red": 250,
+                "green": 223,
+                "blue": 141
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Gold",
+            "value": {
+                "red": 255,
+                "green": 164,
+                "blue": 0
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Gold Nugget",
+            "value": {
+                "red": 242,
+                "green": 211,
+                "blue": 131
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Safety Green",
+            "value": {
+                "red": 228,
+                "green": 232,
+                "blue": 38
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Lime",
+            "value": {
+                "red": 164,
+                "green": 213,
+                "blue": 93
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Shamrock Green",
+            "value": {
+                "red": 0,
+                "green": 153,
+                "blue": 68
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Kelly Green",
+            "value": {
+                "red": 0,
+                "green": 148,
+                "blue": 94
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Jade",
+            "value": {
+                "red": 0,
+                "green": 131,
+                "blue": 123
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Lavender",
+            "value": {
+                "red": 199,
+                "green": 180,
+                "blue": 226
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Violet",
+            "value": {
+                "red": 130,
+                "green": 147,
+                "blue": 220
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Aquatic Blue",
+            "value": {
+                "red": 97,
+                "green": 180,
+                "blue": 228
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Carolina Blue",
+            "value": {
+                "red": 62,
+                "green": 142,
+                "blue": 222
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Palace Blue",
+            "value": {
+                "red": 64,
+                "green": 124,
+                "blue": 202
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Sapphire",
+            "value": {
+                "red": 0,
+                "green": 128,
+                "blue": 187
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Teal",
+            "value": {
+                "red": 0,
+                "green": 114,
+                "blue": 151
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Purple",
+            "value": {
+                "red": 51,
+                "green": 0,
+                "blue": 111
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Winterberry",
+            "value": {
+                "red": 98,
+                "green": 32,
+                "blue": 102
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Light Blue",
+            "value": {
+                "red": 148,
+                "green": 192,
+                "blue": 233
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Stonewashed Blue",
+            "value": {
+                "red": 124,
+                "green": 152,
+                "blue": 171
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Denim Blue",
+            "value": {
+                "red": 93,
+                "green": 137,
+                "blue": 180
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Twilight Blue",
+            "value": {
+                "red": 0,
+                "green": 31,
+                "blue": 91
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Deep Royal",
+            "value": {
+                "red": 0,
+                "green": 28,
+                "blue": 113
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Navy",
+            "value": {
+                "red": 13,
+                "green": 34,
+                "blue": 64
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Deep Navy",
+            "value": {
+                "red": 21,
+                "green": 30,
+                "blue": 40
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "White",
+            "value": {
+                "red": 255,
+                "green": 255,
+                "blue": 255
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Natural",
+            "value": {
+                "red": 223,
+                "green": 202,
+                "blue": 163
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Sand",
+            "value": {
+                "red": 193,
+                "green": 184,
+                "blue": 175
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Dark Chocolate",
+            "value": {
+                "red": 73,
+                "green": 55,
+                "blue": 40
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Pebble",
+            "value": {
+                "red": 190,
+                "green": 149,
+                "blue": 91
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Stonewashed Green",
+            "value": {
+                "red": 149,
+                "green": 164,
+                "blue": 150
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Fatigue Green",
+            "value": {
+                "red": 87,
+                "green": 79,
+                "blue": 36
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Deep Forest",
+            "value": {
+                "red": 24,
+                "green": 48,
+                "blue": 41
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Ice Gray",
+            "value": {
+                "red": 169,
+                "green": 168,
+                "blue": 169
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Graphite",
+            "value": {
+                "red": 125,
+                "green": 134,
+                "blue": 140
+            }
+        },
+        {
+            "colorSpace": "RGB",
+			"name": "Smoke Gray",
+            "value": {
+                "red": 85,
+                "green": 86,
+                "blue": 90
+            }
+        }
+    ]
+}

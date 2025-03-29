@@ -1,0 +1,102 @@
+{
+	"libraries": [
+		{
+			"name": "All fonts",
+			"fonts": [
+				{
+					"familyName": "Grandstander",
+					"fileName": "grandstander.css",
+					"styles": [
+						"normal",
+						"bold",
+						"italic",
+						"boldItalic"
+					],
+					"frontPage": true
+				},
+				{
+					"familyName": "Lato",
+					"fileName": "lato.css",
+					"styles": [
+						"normal",
+						"bold",
+						"italic",
+						"boldItalic"
+					]
+				},
+				{
+					"familyName": "Lobster Two",
+					"fileName": "lobster-two.css",
+					"styles": [
+						"normal",
+						"bold",
+						"italic",
+						"boldItalic"
+					]
+				},
+				{
+					"familyName": "Montserrat",
+					"fileName": "montserrat.css",
+					"styles": [
+						"normal",
+						"bold",
+						"italic",
+						"boldItalic"
+					]
+				},
+				{
+					"familyName": "Noto Serif",
+					"fileName": "noto-serif.css",
+					"styles": [
+						"normal",
+						"bold",
+						"italic",
+						"boldItalic"
+					]
+				},
+				{
+					"familyName": "Nunito",
+					"fileName": "nunito.css",
+					"styles": [
+						"normal",
+						"bold",
+						"italic",
+						"boldItalic"
+					]
+				},
+				{
+					"familyName": "Open Sans",
+					"fileName": "open-sans.css",
+					"styles": [
+						"normal",
+						"bold",
+						"italic",
+						"boldItalic"
+					]
+				},
+				{
+					"familyName": "Poppins",
+					"fileName": "poppins.css",
+					"styles": [
+						"normal",
+						"bold",
+						"italic",
+						"boldItalic"
+					],
+					"frontPage": true
+				},
+				{
+					"familyName": "Hind",
+					"fileName": "hind.css",
+					"styles": [
+						"normal",
+						"bold",
+						"italic",
+						"boldItalic"
+					],
+					"frontPage": true
+				}
+			]
+		}
+	]
+}
